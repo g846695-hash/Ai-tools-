@@ -1,0 +1,6 @@
+Allocate suitable classrooms to each class.
+Avoid assigning the same room to two classes at the same time.
+Consider the seating capacity of each classroom.
+Ensure there are no room allocation clashes.
+Mention the classroom number, class name, date, and exam time.
+Present the allocation in a neat table format.
